@@ -1,0 +1,20 @@
+{
+	"name": "angularJS",
+	"version": "1.0.0",
+	"dependencies": {
+		"angular": "latest",
+		"angular-animate": "latest",
+		"angular-resource": "latest",
+		"angular-route": "latest",
+		"angular-cookies": "latest",
+		"json3": "~3.2.4",
+		"es5-shim": "latest",
+		"jquery": "latest",
+		"sass-bootstrap": "latest"
+	},
+	"devDependencies": {
+		"angular-mocks": "latest",
+		"angular-scenario": "latest",
+		"angular-sanitize": "latest"
+	}
+}
